@@ -1,2 +1,1 @@
-# scc
-java codes
+# java
